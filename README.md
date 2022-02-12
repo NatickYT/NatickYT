@@ -2,3 +2,4 @@
 - My GitHub Website Is NatickYT.github.io
 - My Main Website Is NatickYT.blogspot.com
 - And My YouTube Channel Is biy.ly/NatickPlays
+- The Development Discord Server Link Is https://discord.gg/fK8p2w7tuR
