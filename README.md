@@ -3,3 +3,6 @@
 - My Main Website Is https://NatickYT.blogspot.com
 - And My YouTube Channel Is https://bit.ly/NatickPlays
 - The Development Discord Server Link Is https://discord.gg/fK8p2w7tuR
+- I Am Also Working On A Minecraft Bedrock MCBE Client
+- I Am Also Working On Forks Of 2 Plugins
+- I Also Make Datapacks And Resource Packs For My Minecraft Servers
