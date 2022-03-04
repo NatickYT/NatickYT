@@ -6,3 +6,4 @@
 - I Am Also Working On A Minecraft Bedrock MCBE Client
 - I Am Also Working On Forks Of 2 Plugins
 - I Also Make Datapacks And Resource Packs For My Minecraft Servers
+[![NatickYT's GitHub stats](https://github-readme-stats.vercel.app/api?username=NatickYT)](https://github.com/anuraghazra/github-readme-stats)
