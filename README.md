@@ -18,7 +18,7 @@
 - [Pet Your Wolf](https://github.com/MrCrayfish/PetYourWolf)
 - [Enchantable](https://github.com/MrCrayfish/Enchantable)
 - [Backpacker](https://github.com/MrCrayfish/Backpacker)
-- [MrCrayfish's Mor Furniture Mod](https://github.com/MrCrayfish/MrCrayfishMoreFurnitureMod)
+- [MrCrayfish's More Furniture Mod](https://github.com/MrCrayfish/MrCrayfishMoreFurnitureMod)
 - [Legacy Vehicles](https://github.com/MrCrayfish/LegacyVehicles)
 - [Goblin Traders](https://github.com/MrCrayfish/GoblinTraders)
 - [MrCrayfish's Vehicle Mod](https://github.com/MrCrayfish/MrCrayFishVehicleMod)
