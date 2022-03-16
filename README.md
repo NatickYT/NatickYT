@@ -28,8 +28,8 @@
 - [Controllable](https://github.com/MrCrayfish/Controllable)
 - [Golden Hopper](https://github.com/MrCrayfish/GoldenHopper)
 - [Configured](https://github.com/MrCrayfish/Configured)
-- [Filters](https://github.com/MrCrayfish/Filters)
-- And More
+- [MrCrayfish's Furniture Mod](https://github.com/MrCrayfish/MrCrayfishFurnitureMod)
+- [GlassCutter](https://github.com/MrCrayfish/GlassCutter)
 # GitHub Stuff
 [![NatickYT's GitHub stats](https://github-readme-stats.vercel.app/api?username=NatickYT&count-private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatickYT&langs_count=15)](https://github.com/anuraghazra/github-readme-stats)
